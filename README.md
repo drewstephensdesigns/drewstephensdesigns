@@ -8,3 +8,9 @@ My life is full of adventure and making the best of it!
 - 🌐 Website Under Construction! For now, check out my projects here on Github
 - 🐦 Me on [Twitter](https://twitter.com/coding_drew).
 - 🧍 My life on [Instagram](https://www.instagram.com/drewstephensdesigns).
+
+<br />
+<p align = "start">
+  <img src = "https://github-readme-stats.vercel.app/api?username=drewstephenscoding&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drewstephenscoding&hide=css,java,html&theme=radical">
+</p>
