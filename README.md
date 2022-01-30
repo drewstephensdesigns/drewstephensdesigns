@@ -1,4 +1,8 @@
-### Hi There 👋 I'm Drew!
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+Welcome+to+my+page;)](https://git.io/typing-svg)  
+</p>
+
+### I'm Drew!
 
 I'm passionate about learning android development and working on apps in my free time!
 At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force <br />
