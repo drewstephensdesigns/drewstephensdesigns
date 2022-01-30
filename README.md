@@ -1,5 +1,5 @@
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+Welcome+to+my+page;)](https://git.io/typing-svg)  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!;Welcome+to+my+Github+Page!&font=Fira%20Code&center=true&width=380&height=50">  
 </p>
 
 ### I'm Drew!
