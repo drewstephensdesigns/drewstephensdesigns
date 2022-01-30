@@ -1,3 +1,5 @@
+![](https://github.com/drewstephenscoding/drewstephenscoding/blob/master/header_1.png)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!;Welcome+to+my+Github+Page!&font=Fira%20Code&center=true&width=380&height=50">  
 </p>
