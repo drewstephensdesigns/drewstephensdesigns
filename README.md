@@ -29,7 +29,7 @@ My life is full of adventure and making the best of it!
 <a href="https://github.com/drewstephenscoding/"><img src="https://img.icons8.com/material-outlined/27/ffffff/ball-point-pen.png"/></a>
 <a href="https://www.linkedin.com/in/drewstephens/"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
 <a href="https://twitter.com/coding_drew"><img src="https://img.icons8.com/material-outlined/30/ffffff/twitter.png"/></a>
-<a href="https://instagram.com/drewstephensdesigns"><img src="https://img/icons8.com/material-outlined/30/ffffff/instagram.png"/></a> 
+<a href="https://instagram.com/drewstephensdesigns"><img src="https://img.icons8.com/material-outlined/30/ffffff/instagram.png"/></a> 
 </p>
 
 <p  align="center">
