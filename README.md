@@ -10,7 +10,7 @@
  - 🚀 At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force <br />
  - 🚀 I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at heart <br />
  - 🚀 My life is full of adventure and making the best of it!
- - 🚀 Federal Communications Commission General Radiotelephone certified! (Provisional)
+ - 🚀 Federal Communications Commission General Radiotelephone Operator certified!
 
 ## ⚡ Projects
 * [AFI Explorer for Android](https://play.google.com/store/apps/details?id=io.github.drewstephenscoding.afiexplorer&hl=en_US&gl=US) Modernized approach to current U.S Air Force E-Publishing website.  Allows Air and Space Force members to quickly reference and search the contents of Air Force publications right on their mobile device. All publications sync directly with e-publishing.af.mil.  This is the Android companion app to [AFI Explorer for iOS](https://apps.apple.com/us/app/afi-explorer/id1564964107?uo=4)
