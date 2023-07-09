@@ -13,9 +13,12 @@
  - 🚀 Federal Communications Commission General Radiotelephone Operator certified!
 
 ## ⚡ Projects
-* [AFI Explorer for Android](https://play.google.com/store/apps/details?id=io.github.drewstephenscoding.afiexplorer&hl=en_US&gl=US) Modernized approach to current U.S Air Force E-Publishing website.  Allows Air and Space Force members to quickly reference and search the contents of Air Force publications right on their mobile device. All publications sync directly with e-publishing.af.mil.  This is the Android companion app to [AFI Explorer for iOS](https://apps.apple.com/us/app/afi-explorer/id1564964107?uo=4)
-* [Tapestry - An unofficial Reddit Wallpaper Client](https://play.google.com/store/apps/details?id=com.github.drewstephenscoding.tapestry&hl=en_US&gl=US) Tapestry for Reddit is a simple, lightweight and reliable way of automatically refreshing your wallpaper with high quality images from your favorite subreddits.
-* [TickerIO](https://play.google.com/store/apps/details?id=com.threetwentyfivedesigns.tickerio&hl=en_US&gl=US) TickerIO is a free, minimalistic app to quickly display local and Zulu (military) time, as well as the julian dates for both
+* [AFI Explorer for Android](https://play.google.com/store/apps/details?id=io.github.drewstephenscoding.afiexplorer&hl=en_US&gl=US)
+  - Modernized approach to current U.S Air Force E-Publishing website.  Allows Air and Space Force members to quickly reference and search the contents of Air Force publications right on their mobile device. All publications sync directly with e-publishing.af.mil.  This is the Android companion app to [AFI Explorer for iOS](https://apps.apple.com/us/app/afi-explorer/id1564964107?uo=4)
+* [Tapestry - An unofficial Reddit Wallpaper Client](https://play.google.com/store/apps/details?id=com.github.drewstephenscoding.tapestry&hl=en_US&gl=US)
+  - Tapestry for Reddit is a simple, lightweight and reliable way of automatically refreshing your wallpaper with high quality images from your favorite subreddits.
+* [TickerIO](https://play.google.com/store/apps/details?id=com.threetwentyfivedesigns.tickerio&hl=en_US&gl=US)
+  - TickerIO is a free, minimalistic app to quickly display local and Zulu (military) time, as well as the julian dates for both
 
 ## 🌱 Stats
 <br />
