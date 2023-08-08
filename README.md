@@ -4,7 +4,7 @@
 
 <h2 align="center">About Me 👋</h3>
 <p align="center">
-I'm Drew and I'm beginning my journey into Android development plus working on apps in my free time. <br /> At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force. <br /> I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at ❤️ <br /> <strong>My life is full of adventure and making the best of it!</strong>
+I'm Drew and I'm beginning my journey into Android development plus working on apps in my free time. <br /> At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force. <br /> I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at ❤️ <br /> <br /><strong>My life is full of adventure and making the best of it!</strong>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=drewstephensdesigns&show_icons=true&theme=dracula&line_height=20">
