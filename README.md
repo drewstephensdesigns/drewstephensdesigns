@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+🌎;Welcome+to+my+README!&font=Noto%20Sans&center=true&width=380&height=50">  
 </p>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me 👋</h3>
 <p align="center">
-I'm Drew and I'm beginning my journey into Android development and working on apps in my free time. <br /> At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force. <br /> I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at ❤️ <br /> My life is full of adventure and making the best of it! 
+I'm Drew and I'm beginning my journey into Android development plus working on apps in my free time. <br /> At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force. <br /> I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at ❤️ <br /> <strong>My life is full of adventure and making the best of it!</strong>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=drewstephensdesigns&show_icons=true&theme=dracula&line_height=20">
@@ -24,6 +24,10 @@ I'm Drew and I'm beginning my journey into Android development and working on ap
 
 🕐 [TickerIO](https://play.google.com/store/apps/details?id=com.threetwentyfivedesigns.tickerio&hl=en_US&gl=US)
 * A free, minimalistic app to quickly display local and Zulu (military) time, as well as the julian dates for both
+
+## Certifications
+- 📻 Federal Communications Commission - Ground Radio Operator License
+- 🤖 Massachusetts Institute of Technology - Designing and Building Artificial Intelligence Products &amp; Services
 
 <hr>
 <p align="center">
