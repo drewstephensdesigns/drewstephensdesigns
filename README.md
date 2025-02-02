@@ -1,33 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+🌎;Welcome+to+my+README!&font=Noto%20Sans&center=true&width=380&height=50">  
-</p>
+### Welcome 👋
+### This is Drew Stephens!
+Welcome to my Github page! I'm Drew and I'm currently finishing my Occupational Safety &amp; Health Master's degree at Columbia Southern University.  I'm also an Active Duty member of the U.S Air Force where I proudly serve as an Aircraft Maintainer. Texas is my home, but the military ha s taken me all over the world.
 
-<h2 align="center">About Me 👋</h3>
-<p align="center">
-I'm Drew and I'm beginning my journey into Android development plus working on apps in my free time. <br /> At work, I'm an aircraft mechanic on the Lockheed Martin C-130J for the U.S Air Force. <br /> I'm a Husband, dad to 4 amazing kids, a best friend, and a kid at ❤️ <br /> <br /><strong>My life is full of adventure and making the best of it!</strong>
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=drewstephensdesigns&show_icons=true&theme=dracula&line_height=20">
-</p>
+<img align="right" alt="img" src="https://github.com/drewstephensdesigns/drewstephensdesigns/blob/master/profile.png" width="40%" height="auto" />
 
-<br />
+#### 🌱 Things I'm Working on: 
+- Finish my Master's degree
+- Learn Kotlin Compose and Multiplatform
+- Incorporating Google Gemini into some of my apps
 
-## 🛠 Current Projects
+#### 🚀 Current Projects:
+- **[AFI Explorer:](https://github.com/drewstephensdesigns/AFIExplorer)** *Modernized approach to current U.S Air Force E-Publishing website. Allows U.S Air Force and Space Force members to quickly reference and search the contents of Air Force publications right on their mobile device. All publications sync directly with [e-publishing.af.mil](https://www.e-publishing.af.mil), so you never have to worry if you have the latest guidance or publication.*
 
-📓 [AFI Explorer for Android](https://play.google.com/store/apps/details?id=io.github.drewstephenscoding.afiexplorer&hl=en_US&gl=US)  
-* Modernized approach to current U.S Air Force E-Publishing website.  Allows Air and Space Force members to quickly reference and search the contents of Air Force publications right on their mobile device. All publications sync directly with e-publishing.af.mil.  This is the Android companion app to [AFI Explorer for iOS](https://apps.apple.com/us/app/afi-explorer/id1564964107?uo=4)  
+- **[API for AFI Explorer:](https://github.com/drewstephensdesigns/AFIExplorer-Android-API)** *This is the AFI Explorer API, a serverless API built using Cloudflare Workers. It periodically fetches and caches data from the U.S. Air Force e-Publishing website and serves it through various endpoints.*
 
-
-🖼️ [Tapestry - An unofficial Reddit Wallpaper Client](https://play.google.com/store/apps/details?id=com.github.drewstephenscoding.tapestry&hl=en_US&gl=US) 
-* A simple, lightweight and reliable way of automatically refreshing your wallpaper with high quality images from your favorite subreddits.
-
-
-🕐 [TickerIO](https://play.google.com/store/apps/details?id=com.threetwentyfivedesigns.tickerio&hl=en_US&gl=US)
-* A free, minimalistic app to quickly display local and Zulu (military) time, as well as the julian dates for both
-
-## Certifications
-- 📻 Federal Communications Commission - Ground Radio Operator License
-- 🤖 Massachusetts Institute of Technology - Designing and Building Artificial Intelligence Products &amp; Services
+- **[AMXS Family Zone:](https://github.com/drewstephensdesigns/AMXSFamilyZone)** *Multiplatform social networking application designed specifically for the spouses and families of the 317th Aircraft Maintenance Squadron at Dyess AFB, Texas.*
 
 <hr>
 <p align="center">
@@ -37,12 +24,9 @@ I'm Drew and I'm beginning my journey into Android development plus working on a
 <a href="https://github.com/drewstephenscoding/"><img src="https://img.icons8.com/material-outlined/27/ffffff/ball-point-pen.png"/></a>
 <a href="https://www.linkedin.com/in/drewstephens/"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
 <a href="https://twitter.com/coding_drew"><img src="https://img.icons8.com/material-outlined/30/ffffff/twitter.png"/></a>
-<a href="https://instagram.com/drewstephensdesigns"><img src="https://img.icons8.com/material-outlined/30/ffffff/instagram.png"/></a> 
+<a href="https://instagram.com/drewstephensdesigns"><img src="https://img.icons8.com/material-outlined/30/ffffff/instagram.png"/></a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=drewstephenscoding.drewstephenscoding" alt="visitor badge"/>       
-</p>
-
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=drewstephensdesigns&theme=nord&show_icons=true&hide_border=false" />
 </p>
