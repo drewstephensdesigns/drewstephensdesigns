@@ -1,5 +1,5 @@
 ### Welcome 👋
-### This is Drew Stephens!
+### I'm Drew Stephens!
 Welcome to my Github page! I'm Drew and I'm currently finishing my Occupational Safety &amp; Health Master's degree at Columbia Southern University.  I'm also an Active Duty member of the U.S Air Force where I proudly serve as an Aircraft Maintainer. Texas is my home, but the military ha s taken me all over the world.
 
 <img align="right" alt="img" src="https://github.com/drewstephensdesigns/drewstephensdesigns/blob/master/profile.png" width="40%" height="auto" />
